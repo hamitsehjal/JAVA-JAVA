@@ -12,4 +12,4 @@
 
 ### Here is a nice snapshot of the OUTPUT that we get from this Project
 
-![OUTPUT]()
+![OUTPUT](https://github.com/hamitsehjal/JAVA-JAVA/blob/main/Email-Administration-Application/Screenshot%202022-12-06%20080811.png)
